@@ -17,3 +17,6 @@ If a participant engages in harassing behaviour, the organizers may take any act
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the organizing team immediately.
 
 #TODO : MAKE TABLE OF CONTENTS AND TRANSATE TO FRENCH
+- link to team
+- link to master roadmap
+- link to volunteer onboarding
