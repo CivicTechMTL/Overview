@@ -1,5 +1,7 @@
 # GitHub 101
 
+**English** · [Français](GITHUB-101.fr.md)
+
 A plain-language guide for people who have never used GitHub.
 You don't need to code or install anything — everything below works in your web browser.
 

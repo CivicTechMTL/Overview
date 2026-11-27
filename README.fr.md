@@ -14,7 +14,7 @@ communauté.
 vivant et diversifié, qui maximise la défense des intérêts, l'accessibilité et
 le pouvoir d'agir pour bâtir Montréal.
 
-📅 [Événements sur Luma](https://luma.com/civictechmontreal) · 💬 [Rejoignez notre Slack](https://join.slack.com/t/civictechmontreal/shared_invite/zt-3sx2os89v-6rIwr2sNmhl6r2FZvyPoCQ) · 🤝 [Comment contribuer](CONTRIBUTING.md) · 🐣 [Nouveau sur GitHub?](GITHUB-101.md) · ✉️ [civictechmtl@gmail.com](mailto:civictechmtl@gmail.com)
+📅 [Événements sur Luma](https://luma.com/civictechmontreal) · 💬 [Rejoignez notre Slack](https://join.slack.com/t/civictechmontreal/shared_invite/zt-3sx2os89v-6rIwr2sNmhl6r2FZvyPoCQ) · 🤝 [Comment contribuer](CONTRIBUTING.fr.md) · 🐣 [Nouveau sur GitHub?](GITHUB-101.fr.md) · ✉️ [civictechmtl@gmail.com](mailto:civictechmtl@gmail.com)
 
 ## Trouver votre place
 
@@ -26,8 +26,7 @@ sur [Slack](https://join.slack.com/t/civictechmontreal/shared_invite/zt-3sx2os89
 **2. Apprendre en faisant**
 Participez à un atelier, à un partage de compétences ou à une journée de
 création pour mettre la main à la pâte en tech civique. Les termes vous sont
-nouveaux? Commencez par notre [glossaire de la tech civique](https://github.com/CivicTechMTL/Organizing/blob/main/Resources/Civic%20Tech%20Glossary.md)
-(en anglais).
+nouveaux? Commencez par notre [glossaire de la tech civique](https://github.com/CivicTechMTL/Organizing/blob/main/Resources/Glossaire%20de%20la%20tech%20civique.md).
 
 **3. Du problème au projet**
 Apportez un enjeu citoyen qui vous tient à cœur, ou aidez à bâtir une solution.
@@ -59,8 +58,8 @@ personnes pour :
 - trouver des conférences, ou parler de votre propre travail en tech civique
 
 Rejoignez le canal **#organizing** sur Slack pour donner un coup de main,
-consultez les [rôles bénévoles](https://github.com/CivicTechMTL/Organizing/tree/main/Roles)
-et lisez notre [guide de contribution](CONTRIBUTING.md) (en anglais).
+consultez les [rôles bénévoles](https://github.com/CivicTechMTL/Organizing/tree/main/Roles) (en anglais)
+et lisez notre [guide de contribution](CONTRIBUTING.fr.md).
 
 ## Qui peut contribuer?
 
@@ -106,7 +105,7 @@ terres et des eaux où nous nous rassemblons.
 ## Notre engagement
 Nous nous engageons à offrir un espace sécuritaire, accueillant et exempt de
 harcèlement pour tout le monde. Veuillez lire et respecter notre
-[code de conduite](CODE_OF_CONDUCT.md) (en anglais).
+[code de conduite](CODE_OF_CONDUCT.fr.md).
 
 ## Pour l'équipe d'organisation
 La planification des rencontres, les rôles, les lieux et les notes de réunion

@@ -1,5 +1,7 @@
 # Code of Conduct
 
+**English** · [Français](CODE_OF_CONDUCT.fr.md)
+
 Civic Tech Montréal is a community where everyone should feel welcome, safe
 and able to take part — at meetups, online, in Slack and on GitHub.
 
