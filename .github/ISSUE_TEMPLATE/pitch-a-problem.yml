@@ -1,0 +1,50 @@
+name: "💡 Pitch a civic problem"
+description: Share a civic issue in Montréal that you think tech, data or design could help with.
+title: "[Problem] "
+labels: ["problem pitch"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for sharing! You don't need a solution or any technical knowledge — just tell us what you're seeing.
+        Write in English or French, whichever you prefer.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's the problem?
+      description: Describe it in your own words.
+    validations:
+      required: true
+  - type: textarea
+    id: affected
+    attributes:
+      label: Who is affected?
+      description: Which people, groups or neighbourhoods feel this problem most?
+    validations:
+      required: true
+  - type: dropdown
+    id: connection
+    attributes:
+      label: What's your connection to it?
+      options:
+        - I experience it myself
+        - I work on it (community group, government, research…)
+        - I've noticed it
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: known
+    attributes:
+      label: Anything already tried or known?
+      description: Existing tools, data, groups working on it, past attempts… (optional)
+  - type: dropdown
+    id: involvement
+    attributes:
+      label: Would you like to help work on it?
+      options:
+        - "Yes"
+        - Maybe
+        - Just sharing the idea
+    validations:
+      required: true
