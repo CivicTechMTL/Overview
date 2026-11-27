@@ -1,5 +1,5 @@
-name: "🙋 Question or I want to help"
-description: Ask a question or tell us how you'd like to get involved.
+name: "🙋 Question or I want to help / Question ou je veux aider"
+description: Ask a question or tell us how you'd like to get involved. / Posez une question ou dites-nous comment vous aimeriez vous impliquer.
 title: "[Question] "
 body:
   - type: markdown
@@ -7,14 +7,17 @@ body:
       value: |
         No question is too small! Write in English or French, whichever you prefer.
         For quick chats, you can also find us on Slack (link below the issue templates).
+
+        Aucune question n'est trop petite! Écrivez en français ou en anglais, comme vous préférez.
+        Pour discuter rapidement, vous pouvez aussi nous trouver sur Slack (lien sous les modèles de tickets).
   - type: textarea
     id: question
     attributes:
-      label: What's your question, or how would you like to help?
+      label: What's your question, or how would you like to help? / Quelle est votre question, ou comment aimeriez-vous aider?
     validations:
       required: true
   - type: textarea
     id: skills
     attributes:
-      label: Skills or interests (optional)
-      description: Coding, design, research, writing, organizing, a topic you care about… anything goes.
+      label: Skills or interests (optional) / Compétences ou intérêts (facultatif)
+      description: Coding, design, research, writing, organizing, a topic you care about… anything goes. / Code, design, recherche, rédaction, organisation, un sujet qui vous tient à cœur… tout est bienvenu.

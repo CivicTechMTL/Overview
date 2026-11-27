@@ -1,5 +1,7 @@
 # Contributing to Civic Tech Montréal
 
+**English** · [Français](CONTRIBUTING.fr.md)
+
 Thanks for your interest! Civic Tech Montréal is a volunteer community, and
 there's room for everyone: coders, designers, researchers, policy folks,
 community organizers, and anyone who cares about how Montréal works.

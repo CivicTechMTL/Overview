@@ -1,6 +1,6 @@
-name: "💡 Pitch a civic problem"
-description: Share a civic issue in Montréal that you think tech, data or design could help with.
-title: "[Problem] "
+name: "💡 Pitch a civic problem / Proposer un problème citoyen"
+description: Share a civic issue in Montréal that you think tech, data or design could help with. / Partagez un enjeu citoyen à Montréal que la technologie, les données ou le design pourraient aider à régler.
+title: "[Problem / Problème] "
 labels: ["problem pitch"]
 body:
   - type: markdown
@@ -8,43 +8,46 @@ body:
       value: |
         Thanks for sharing! You don't need a solution or any technical knowledge — just tell us what you're seeing.
         Write in English or French, whichever you prefer.
+
+        Merci de partager! Pas besoin d'avoir une solution ni de connaissances techniques : dites-nous simplement ce que vous observez.
+        Écrivez en français ou en anglais, comme vous préférez.
   - type: textarea
     id: problem
     attributes:
-      label: What's the problem?
-      description: Describe it in your own words.
+      label: What's the problem? / Quel est le problème?
+      description: Describe it in your own words. / Décrivez-le dans vos propres mots.
     validations:
       required: true
   - type: textarea
     id: affected
     attributes:
-      label: Who is affected?
-      description: Which people, groups or neighbourhoods feel this problem most?
+      label: Who is affected? / Qui est touché?
+      description: Which people, groups or neighbourhoods feel this problem most? / Quelles personnes, quels groupes ou quels quartiers vivent le plus ce problème?
     validations:
       required: true
   - type: dropdown
     id: connection
     attributes:
-      label: What's your connection to it?
+      label: What's your connection to it? / Quel est votre lien avec ce problème?
       options:
-        - I experience it myself
-        - I work on it (community group, government, research…)
-        - I've noticed it
-        - Other
+        - I experience it myself / Je le vis moi-même
+        - I work on it (community group, government, research…) / J'y travaille (organisme communautaire, gouvernement, recherche…)
+        - I've noticed it / Je l'ai remarqué
+        - Other / Autre
     validations:
       required: true
   - type: textarea
     id: known
     attributes:
-      label: Anything already tried or known?
-      description: Existing tools, data, groups working on it, past attempts… (optional)
+      label: Anything already tried or known? / Qu'est-ce qui a déjà été essayé ou qu'est-ce qu'on sait déjà?
+      description: Existing tools, data, groups working on it, past attempts… (optional) / Outils existants, données, groupes qui s'en occupent, tentatives passées… (facultatif)
   - type: dropdown
     id: involvement
     attributes:
-      label: Would you like to help work on it?
+      label: Would you like to help work on it? / Aimeriez-vous aider à y travailler?
       options:
-        - "Yes"
-        - Maybe
-        - Just sharing the idea
+        - "Yes / Oui"
+        - Maybe / Peut-être
+        - Just sharing the idea / Je partage seulement l'idée
     validations:
       required: true
