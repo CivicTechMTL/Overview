@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: "💬 Chat with us on Slack"
+    url: https://join.slack.com/t/civictechmontreal/shared_invite/zt-3sx2os89v-6rIwr2sNmhl6r2FZvyPoCQ
+    about: For quick questions and day-to-day conversation with the community.
+  - name: "📅 Come to a meetup"
+    url: https://luma.com/civictechmontreal
+    about: See upcoming Civic Tech Montréal events.
