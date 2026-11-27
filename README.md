@@ -1,22 +1,52 @@
-# Overview
+# Civic Tech Montréal
 
-# Mission
+We're a bilingual, volunteer community of residents, technologists, designers
+and anyone curious about how tools and data can strengthen civic life in
+Montréal. No experience required — just curiosity.
 
-The Civic Tech Community aims to solve civic issues with a human centered approach, bringing together technologists, designers, policy nerds, artists, and general members of the community to collaborate and come up with solutions to issues that matter most to them.
+**Our vision:** a future where Civic Tech Montréal is a vibrant and diverse
+community garden that maximizes advocacy, accessibility, and agency to build
+in Montréal.
 
-This is done by attending organized "hacknights", where participants can pitch their own projects, or collaborate with other Community led organizations to help them reach their goals with technology. It’s a great way to contribute to open source projects and to have an impact on your community! Everyone is welcome and tech knowledge is definitely not a requirement.
+🌐 [mtl.civictech.ca](https://mtl.civictech.ca) · 📅 [Events on Luma](https://luma.com/civictechmontreal) · 💬 [Join our Slack](https://join.slack.com/t/civictechmontreal/shared_invite/zt-3sx2os89v-6rIwr2sNmhl6r2FZvyPoCQ) · ✉️ info@civictechmtl.ca
 
-# Values
+## Find your way in
 
-ctMTL would like to acknowledge that Montreal is located on Tiohtià:ke, the unceded traditional territory of the Kanien’kehá:ka nation, recognized as the custodians of the lands and waters on which we gather today.
+**1. Open door — come as you are**
+Your first step is simple: come to a meetup. Check [Luma](https://luma.com/civictechmontreal)
+for the next one, or say hi on [Slack](https://join.slack.com/t/civictechmontreal/shared_invite/zt-3sx2os89v-6rIwr2sNmhl6r2FZvyPoCQ).
 
-We would like to also point out that we are dedicated to providing a harassment-free environment for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, technical skill level or economic standing. We do not tolerate harassment of participants in any form. 
+**2. Learn by doing**
+Join a workshop, skill-share or build day and get hands-on with civic tech.
+New to the terms? Start with our [Civic Tech Glossary](https://github.com/CivicTechMTL/Organizing/blob/main/Resources/Civic%20Tech%20Glossary.md).
 
-If a participant engages in harassing behaviour, the organizers may take any action they deem appropriate, including warning the offender or expulsion from events and online forums.
+**3. Problem to project**
+Bring a civic problem you care about, or help build a solution to one.
+We're looking for problem partners, not just builders. See our
+[focus areas](https://mtl.civictech.ca) or [email us](mailto:info@civictechmtl.ca) to pitch an idea.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the organizing team immediately.
+Current projects:
+- [Brique par Brique](https://github.com/CivicTechMTL/BriqueParBriqueData)
 
-#TODO : MAKE TABLE OF CONTENTS AND TRANSATE TO FRENCH
-- link to team
-- link to master roadmap
-- link to volunteer onboarding
+**4. Connect and sustain**
+Help run the community. Browse [volunteer roles](https://github.com/CivicTechMTL/Organizing/tree/main/Roles)
+and [how to contribute](https://github.com/CivicTechMTL/Organizing/blob/main/Resources/How%20to%20Contribute.md).
+
+## Land acknowledgement
+Civic Tech Montréal acknowledges that Montréal is located on Tiohtià:ke, the
+unceded traditional territory of the Kanien'kehá:ka nation, recognized as the
+custodians of the lands and waters on which we gather.
+
+## Our commitment
+We are dedicated to providing a harassment-free environment for everyone,
+regardless of gender, gender identity and expression, sexual orientation,
+disability, physical appearance, body size, race, age, religion, technical
+skill level or economic standing. We do not tolerate harassment in any form.
+Organizers may take any action they deem appropriate, including a warning or
+removal from events and online spaces.
+
+If you experience or witness harassment, please talk to an organizer.
+
+## For organizers
+Meetup planning, roles, venues and meeting notes live in the
+[Organizing repo](https://github.com/CivicTechMTL/Organizing).
