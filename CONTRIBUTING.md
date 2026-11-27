@@ -12,7 +12,7 @@ for the next event. Introduce yourself and tell us what interests you.
 
 **Share a problem.** Know a civic issue in your neighbourhood, organization or
 workplace? We're looking for problem partners, not just builders.
-[Open an issue](../../issues/new) in this repo, post in Slack, or bring it to a meetup.
+[Pitch a civic problem](../../issues/new/choose) in this repo, post in Slack, or bring it to a meetup.
 
 **Join a project.** Browse our [projects on GitHub](https://github.com/CivicTechMTL).
 Each project's README explains what it's about and how to help. Not sure where
@@ -30,7 +30,7 @@ Suggest a change (see below). Fixing a typo counts!
 > **New to GitHub?** Start with our [GitHub 101](GITHUB-101.md): what GitHub
 > is, the key terms, and a step-by-step guide to your first contribution.
 
-1. **Start with an issue.** Before making a big change, [open an issue](../../issues/new)
+1. **Start with an issue.** Before making a big change, [open an issue](../../issues/new/choose)
    to describe your idea or question. This lets others weigh in and avoids
    duplicate work. Small fixes (typos, broken links) can skip this step.
 2. **Make your change on a branch, not on `main`.** If you don't have write
@@ -52,8 +52,7 @@ Each project may have its own setup or extra guidelines — check its README fir
 - **Credit others.** Acknowledge ideas and work that aren't yours.
 - **English or French.** Contribute in whichever language you're comfortable with.
 
-All contributors are expected to follow our
-[community commitment](README.md#our-commitment).
+All contributors are expected to follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Need help?
 
