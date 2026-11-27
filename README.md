@@ -2,13 +2,13 @@
 
 We're a bilingual, volunteer community of residents, technologists, designers
 and anyone curious about how tools and data can strengthen civic life in
-Montréal. No experience required — just curiosity.
+Montréal. No experience required, just curiosity.
 
 **Our vision:** a future where Civic Tech Montréal is a vibrant and diverse
 community garden that maximizes advocacy, accessibility, and agency to build
 in Montréal.
 
-🌐 [mtl.civictech.ca](https://mtl.civictech.ca) · 📅 [Events on Luma](https://luma.com/civictechmontreal) · 💬 [Join our Slack](https://join.slack.com/t/civictechmontreal/shared_invite/zt-3sx2os89v-6rIwr2sNmhl6r2FZvyPoCQ) · ✉️ info@civictechmtl.ca
+🌐 [mtl.civictech.ca](https://mtl.civictech.ca) · 📅 [Events on Luma](https://luma.com/civictechmontreal) · 💬 [Join our Slack](https://join.slack.com/t/civictechmontreal/shared_invite/zt-3sx2os89v-6rIwr2sNmhl6r2FZvyPoCQ) 
 
 ## Find your way in
 
