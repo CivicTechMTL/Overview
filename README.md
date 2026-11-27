@@ -2,13 +2,13 @@
 
 We're a bilingual, volunteer community of residents, technologists, designers
 and anyone curious about how tools and data can strengthen civic life in
-Montréal. No experience required, just curiosity.
+Montréal. No experience required — just curiosity.
 
 **Our vision:** a future where Civic Tech Montréal is a vibrant and diverse
 community garden that maximizes advocacy, accessibility, and agency to build
 in Montréal.
 
-🌐 [mtl.civictech.ca](https://mtl.civictech.ca) · 📅 [Events on Luma](https://luma.com/civictechmontreal) · 💬 [Join our Slack](https://join.slack.com/t/civictechmontreal/shared_invite/zt-3sx2os89v-6rIwr2sNmhl6r2FZvyPoCQ) 
+📅 [Events on Luma](https://luma.com/civictechmontreal) · 💬 [Join our Slack](https://join.slack.com/t/civictechmontreal/shared_invite/zt-3sx2os89v-6rIwr2sNmhl6r2FZvyPoCQ) · 🤝 [How to contribute](CONTRIBUTING.md) · 🐣 [New to GitHub?](GITHUB-101.md)
 
 ## Find your way in
 
@@ -22,19 +22,15 @@ New to the terms? Start with our [Civic Tech Glossary](https://github.com/CivicT
 
 **3. Problem to project**
 Bring a civic problem you care about, or help build a solution to one.
-
-There are two ways to share a problem:
-- **Present it as a speaker** at one of our meetups.
-- **Pitch it informally** during the project segment of a meetup or at a build night.
-
-We're looking for problem partners, not just builders. Reach out on [Slack](https://join.slack.com/t/civictechmontreal/shared_invite/zt-3sx2os89v-6rIwr2sNmhl6r2FZvyPoCQ) to get started.
+We're looking for problem partners, not just builders.
+[Open an issue](../../issues/new), post in Slack, or bring your idea to a meetup.
 
 Current projects:
 - [Brique par Brique](https://github.com/CivicTechMTL/BriqueParBriqueData)
 
 **4. Connect and sustain**
 Help run the community. Browse [volunteer roles](https://github.com/CivicTechMTL/Organizing/tree/main/Roles)
-and [how to contribute](https://github.com/CivicTechMTL/Organizing/blob/main/Resources/How%20to%20Contribute.md).
+and read our [contributing guide](CONTRIBUTING.md).
 
 ## Land acknowledgement
 Civic Tech Montréal acknowledges that Montréal is located on Tiohtià:ke, the
