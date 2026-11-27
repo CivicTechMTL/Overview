@@ -23,7 +23,7 @@ New to the terms? Start with our [Civic Tech Glossary](https://github.com/CivicT
 **3. Problem to project**
 Bring a civic problem you care about, or help build a solution to one.
 We're looking for problem partners, not just builders.
-[Open an issue](../../issues/new), post in Slack, or bring your idea to a meetup.
+[Open an issue](../../issues/new/choose), post in Slack, or bring your idea to a meetup.
 
 Current projects:
 - [Brique par Brique](https://github.com/CivicTechMTL/BriqueParBriqueData)
@@ -38,14 +38,8 @@ unceded traditional territory of the Kanien'kehá:ka nation, recognized as the
 custodians of the lands and waters on which we gather.
 
 ## Our commitment
-We are dedicated to providing a harassment-free environment for everyone,
-regardless of gender, gender identity and expression, sexual orientation,
-disability, physical appearance, body size, race, age, religion, technical
-skill level or economic standing. We do not tolerate harassment in any form.
-Organizers may take any action they deem appropriate, including a warning or
-removal from events and online spaces.
-
-If you experience or witness harassment, please talk to an organizer.
+We are dedicated to providing a safe, welcoming and harassment-free space for
+everyone. Please read and follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## For organizers
 Meetup planning, roles, venues and meeting notes live in the
