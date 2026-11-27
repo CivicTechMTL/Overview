@@ -22,8 +22,12 @@ New to the terms? Start with our [Civic Tech Glossary](https://github.com/CivicT
 
 **3. Problem to project**
 Bring a civic problem you care about, or help build a solution to one.
-We're looking for problem partners, not just builders. See our
-[focus areas](https://mtl.civictech.ca) or [email us](mailto:info@civictechmtl.ca) to pitch an idea.
+
+There are two ways to share a problem:
+- **Present it as a speaker** at one of our meetups.
+- **Pitch it informally** during the project segment of a meetup or at a build night.
+
+We're looking for problem partners, not just builders. Reach out on [Slack](https://join.slack.com/t/civictechmontreal/shared_invite/zt-3sx2os89v-6rIwr2sNmhl6r2FZvyPoCQ) to get started.
 
 Current projects:
 - [Brique par Brique](https://github.com/CivicTechMTL/BriqueParBriqueData)
