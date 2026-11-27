@@ -1,0 +1,20 @@
+name: "🙋 Question or I want to help"
+description: Ask a question or tell us how you'd like to get involved.
+title: "[Question] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        No question is too small! Write in English or French, whichever you prefer.
+        For quick chats, you can also find us on Slack (link below the issue templates).
+  - type: textarea
+    id: question
+    attributes:
+      label: What's your question, or how would you like to help?
+    validations:
+      required: true
+  - type: textarea
+    id: skills
+    attributes:
+      label: Skills or interests (optional)
+      description: Coding, design, research, writing, organizing, a topic you care about… anything goes.
